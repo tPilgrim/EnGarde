@@ -1,0 +1,6042 @@
+fileFormatVersion: 2
+guid: 6a15ceb0b49e01f40a61d2e429f34154
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2395151762145874371
+    second: Javier_0
+  - first:
+      213: 5636190692385462706
+    second: Javier_1
+  - first:
+      213: -4066893627819469750
+    second: Javier_2
+  - first:
+      213: -8214596065747051157
+    second: Javier_3
+  - first:
+      213: 4049502402871293339
+    second: Javier_4
+  - first:
+      213: -4985547830297872394
+    second: Javier_5
+  - first:
+      213: 1154362932673516629
+    second: Javier_6
+  - first:
+      213: 1681552045387813406
+    second: Javier_7
+  - first:
+      213: 4193135697449394987
+    second: Javier_8
+  - first:
+      213: 7326250048769654564
+    second: Javier_9
+  - first:
+      213: -3336412528662448759
+    second: Javier_10
+  - first:
+      213: 8382787322706085022
+    second: Javier_11
+  - first:
+      213: -7055805488235746002
+    second: Javier_12
+  - first:
+      213: 7127028412700423572
+    second: Javier_13
+  - first:
+      213: -8454764516372640551
+    second: Javier_14
+  - first:
+      213: 3939324218805487817
+    second: Javier_15
+  - first:
+      213: 8970141246108238731
+    second: Javier_16
+  - first:
+      213: 5943071268973015092
+    second: Javier_17
+  - first:
+      213: 1510243851451686572
+    second: Javier_18
+  - first:
+      213: -3017056330017996979
+    second: Javier_19
+  - first:
+      213: -4582630986259543086
+    second: Javier_20
+  - first:
+      213: 5707876605368201054
+    second: Javier_21
+  - first:
+      213: -461851327510780991
+    second: Javier_22
+  - first:
+      213: -4309677761268149068
+    second: Javier_23
+  - first:
+      213: 1462440742143610768
+    second: Javier_24
+  - first:
+      213: 1970819620142569365
+    second: Javier_25
+  - first:
+      213: 927112642087789573
+    second: Javier_26
+  - first:
+      213: -1210007301637128503
+    second: Javier_27
+  - first:
+      213: 8464450445518705191
+    second: Javier_28
+  - first:
+      213: 5298912675214309133
+    second: Javier_29
+  - first:
+      213: -6624660621622101655
+    second: Javier_30
+  - first:
+      213: -7799820039594898098
+    second: Javier_31
+  - first:
+      213: 9151600845982285725
+    second: Javier_32
+  - first:
+      213: -726654247586899582
+    second: Javier_33
+  - first:
+      213: -2352531708157620855
+    second: Javier_34
+  - first:
+      213: 2598871999128665845
+    second: Javier_35
+  - first:
+      213: -5114778504510557903
+    second: Javier_36
+  - first:
+      213: 4048859259887166062
+    second: Javier_37
+  - first:
+      213: 5728159187730657934
+    second: Javier_38
+  - first:
+      213: 9031325036620760784
+    second: Javier_39
+  - first:
+      213: 544648705643908454
+    second: Javier_40
+  - first:
+      213: 6417565849363574412
+    second: Javier_41
+  - first:
+      213: 9059744632840484163
+    second: Javier_42
+  - first:
+      213: -2607958440858198186
+    second: Javier_43
+  - first:
+      213: 6801337686068608433
+    second: Javier_44
+  - first:
+      213: 1174412528273500775
+    second: Javier_45
+  - first:
+      213: -7872284003005870281
+    second: Javier_46
+  - first:
+      213: -7942752823619668240
+    second: Javier_47
+  - first:
+      213: -3432005815129623252
+    second: Javier_48
+  - first:
+      213: -5607301183505426767
+    second: Javier_49
+  - first:
+      213: 458359319650481245
+    second: Javier_50
+  - first:
+      213: 2428920267386907444
+    second: Javier_51
+  - first:
+      213: 5745593528216115193
+    second: Javier_52
+  - first:
+      213: 6868206766357472064
+    second: Javier_53
+  - first:
+      213: -1416339705177880051
+    second: Javier_54
+  - first:
+      213: -2097412324284867105
+    second: Javier_55
+  - first:
+      213: 7665804141048160842
+    second: Javier_56
+  - first:
+      213: -4411820702342624764
+    second: Javier_57
+  - first:
+      213: 3442476733448243936
+    second: Javier_58
+  - first:
+      213: 7315424562930213678
+    second: Javier_59
+  - first:
+      213: 4140480293841846798
+    second: Javier_60
+  - first:
+      213: -5703599525719996206
+    second: Javier_61
+  - first:
+      213: -7942537047757261448
+    second: Javier_62
+  - first:
+      213: -4596599064119124483
+    second: Javier_63
+  - first:
+      213: 1796826185017188881
+    second: Javier_64
+  - first:
+      213: -7996402929507244748
+    second: Javier_65
+  - first:
+      213: 4976011695060354681
+    second: Javier_66
+  - first:
+      213: -7427496617742948397
+    second: Javier_67
+  - first:
+      213: 4985840653271397130
+    second: Javier_68
+  - first:
+      213: 3989264146763195991
+    second: Javier_69
+  - first:
+      213: -8109029793216018909
+    second: Javier_70
+  - first:
+      213: -786290413784264724
+    second: Javier_71
+  - first:
+      213: 805480176103966837
+    second: Javier_72
+  - first:
+      213: 2031417567949182532
+    second: Javier_73
+  - first:
+      213: -2880415636876795504
+    second: Javier_74
+  - first:
+      213: 8597224757792222013
+    second: Javier_75
+  - first:
+      213: 3967948307476688036
+    second: Javier_76
+  - first:
+      213: -5780884398945107934
+    second: Javier_77
+  - first:
+      213: 3374930247331230390
+    second: Javier_78
+  - first:
+      213: 7628461629748416818
+    second: Javier_79
+  - first:
+      213: -6736447618352938443
+    second: Javier_80
+  - first:
+      213: -5823793957386106286
+    second: Javier_81
+  - first:
+      213: 8389280239637215791
+    second: Javier_82
+  - first:
+      213: 2615931613785194064
+    second: Javier_83
+  - first:
+      213: -6889275832313893590
+    second: Javier_84
+  - first:
+      213: -323955617957699554
+    second: Javier_85
+  - first:
+      213: 6080596649719067782
+    second: Javier_86
+  - first:
+      213: 7199292244869727740
+    second: Javier_87
+  - first:
+      213: 4950495312028192965
+    second: Javier_88
+  - first:
+      213: 6166630811760960336
+    second: Javier_89
+  - first:
+      213: -8845175114701413848
+    second: Javier_90
+  - first:
+      213: -4985463792000852843
+    second: Javier_91
+  - first:
+      213: -6099214892766955124
+    second: Javier_92
+  - first:
+      213: -3034579262538451803
+    second: Javier_93
+  - first:
+      213: -8338792587829643551
+    second: Javier_94
+  - first:
+      213: -6673723522556955222
+    second: Javier_95
+  - first:
+      213: 1457124700464217869
+    second: Javier_96
+  - first:
+      213: -6836724975552533881
+    second: Javier_97
+  - first:
+      213: 2481226754762847420
+    second: Javier_98
+  - first:
+      213: -1799054920772867277
+    second: Javier_99
+  - first:
+      213: 428532209502229049
+    second: Javier_100
+  - first:
+      213: 7183674204936267861
+    second: Javier_101
+  - first:
+      213: 6024462075012337938
+    second: Javier_102
+  - first:
+      213: -6896962211231301255
+    second: Javier_103
+  - first:
+      213: 7030213236982947874
+    second: Javier_104
+  - first:
+      213: -1850805341464957115
+    second: Javier_105
+  - first:
+      213: 2446632706578056929
+    second: Javier_106
+  - first:
+      213: 5713571888226671048
+    second: Javier_107
+  - first:
+      213: -2424914787149075365
+    second: Javier_108
+  - first:
+      213: -1534394971227414351
+    second: Javier_109
+  - first:
+      213: 8214413979004920410
+    second: Javier_110
+  - first:
+      213: 8649937775007176132
+    second: Javier_111
+  - first:
+      213: -663012411451501960
+    second: Javier_112
+  - first:
+      213: 6554216205537425483
+    second: Javier_113
+  - first:
+      213: -2439797259113143385
+    second: Javier_114
+  - first:
+      213: 8171447255460345602
+    second: Javier_115
+  - first:
+      213: 5162094750401117145
+    second: Javier_116
+  - first:
+      213: 7769830018335934186
+    second: Javier_117
+  - first:
+      213: -8319546069136592170
+    second: Javier_118
+  - first:
+      213: -541147324646338754
+    second: Javier_119
+  - first:
+      213: 3270102195601303189
+    second: Javier_120
+  - first:
+      213: -4950223300587886698
+    second: Javier_121
+  - first:
+      213: 7627680192513135254
+    second: Javier_122
+  - first:
+      213: -7386721681727851675
+    second: Javier_123
+  - first:
+      213: 7613817486106116280
+    second: Javier_124
+  - first:
+      213: -8300096263418500999
+    second: Javier_125
+  - first:
+      213: -7640326466622010580
+    second: Javier_126
+  - first:
+      213: 8310917425173353212
+    second: Javier_127
+  - first:
+      213: -6876499163306490862
+    second: Javier_128
+  - first:
+      213: 6205771628230259700
+    second: Javier_129
+  - first:
+      213: -1321223288870600206
+    second: Javier_130
+  - first:
+      213: -8257186677832288637
+    second: Javier_131
+  - first:
+      213: 6421027170024985887
+    second: Javier_132
+  - first:
+      213: 7797217044289568002
+    second: Javier_133
+  - first:
+      213: 4317609304718908241
+    second: Javier_134
+  - first:
+      213: 3119333058774959481
+    second: Javier_135
+  - first:
+      213: -1878471817009635145
+    second: Javier_136
+  - first:
+      213: -9083283039521600971
+    second: Javier_137
+  - first:
+      213: -6767981884610023289
+    second: Javier_138
+  - first:
+      213: 8202093489470652864
+    second: Javier_139
+  - first:
+      213: 1775317478314697445
+    second: Javier_140
+  - first:
+      213: 6737188604287363397
+    second: Javier_141
+  - first:
+      213: -7200512510189618202
+    second: Javier_142
+  - first:
+      213: -7003269347394127129
+    second: Javier_143
+  - first:
+      213: -5422564770188636473
+    second: Javier_144
+  - first:
+      213: -1970861020171333681
+    second: Javier_145
+  - first:
+      213: 1266977702859874985
+    second: Javier_146
+  - first:
+      213: 4290093944486356481
+    second: Javier_147
+  - first:
+      213: -5424750848047561662
+    second: Javier_148
+  - first:
+      213: -5331090395023544557
+    second: Javier_149
+  - first:
+      213: -2067794188992747734
+    second: Javier_150
+  - first:
+      213: 8899845275216949223
+    second: Javier_151
+  - first:
+      213: -3998312934689551281
+    second: Javier_152
+  - first:
+      213: 6466479015348860111
+    second: Javier_153
+  - first:
+      213: -3552144660002266262
+    second: Javier_154
+  - first:
+      213: 974683534955969801
+    second: Javier_155
+  - first:
+      213: 1274052062863386573
+    second: Javier_156
+  - first:
+      213: 1313450145558056144
+    second: Javier_157
+  - first:
+      213: -6094553351082938642
+    second: Javier_158
+  - first:
+      213: -6195711287108652199
+    second: Javier_159
+  - first:
+      213: 4936443889483110598
+    second: Javier_160
+  - first:
+      213: 1989772323249224796
+    second: Javier_161
+  - first:
+      213: 4219332037715230494
+    second: Javier_162
+  - first:
+      213: 3130560787541768750
+    second: Javier_163
+  - first:
+      213: 3372473327111070002
+    second: Javier_164
+  - first:
+      213: -4441521635198505119
+    second: Javier_165
+  - first:
+      213: 1226874262882082114
+    second: Javier_166
+  - first:
+      213: 671559149480988962
+    second: Javier_167
+  - first:
+      213: -8475639525439407314
+    second: Javier_168
+  - first:
+      213: 137045350806092420
+    second: Javier_169
+  - first:
+      213: -4829465633054761610
+    second: Javier_170
+  - first:
+      213: -6736314727350318973
+    second: Javier_171
+  - first:
+      213: 724278819241977044
+    second: Javier_172
+  - first:
+      213: 8173608486314165421
+    second: Javier_173
+  - first:
+      213: -6889718660376389798
+    second: Javier_174
+  - first:
+      213: -5264168396803125751
+    second: Javier_175
+  - first:
+      213: 2022875355538828349
+    second: Javier_176
+  - first:
+      213: 1566768604098394420
+    second: Javier_177
+  - first:
+      213: -1274907030860726842
+    second: Javier_178
+  - first:
+      213: 1183539063717194644
+    second: Javier_179
+  - first:
+      213: 7255414095658668919
+    second: Javier_180
+  - first:
+      213: 6377122868367280731
+    second: Javier_181
+  - first:
+      213: -627281919079883362
+    second: Javier_182
+  - first:
+      213: -2076132634920814280
+    second: Javier_183
+  - first:
+      213: 7625834275693829664
+    second: Javier_184
+  - first:
+      213: -844752116178779196
+    second: Javier_185
+  - first:
+      213: -2408990037029433977
+    second: Javier_186
+  - first:
+      213: 7823309184601894638
+    second: Javier_187
+  - first:
+      213: -4566611206225521745
+    second: Javier_188
+  - first:
+      213: 7249921679568308784
+    second: Javier_189
+  - first:
+      213: 3921755166829576595
+    second: Javier_190
+  - first:
+      213: -8314004901784962557
+    second: Javier_191
+  - first:
+      213: -6011268802385945619
+    second: Javier_192
+  - first:
+      213: -3264225497680327496
+    second: Javier_193
+  - first:
+      213: 6538720951358018395
+    second: Javier_194
+  - first:
+      213: -4260356771610547224
+    second: Javier_195
+  - first:
+      213: -6399163145795290850
+    second: Javier_196
+  - first:
+      213: -27216996470587863
+    second: Javier_197
+  - first:
+      213: -8446672985563525954
+    second: Javier_198
+  - first:
+      213: -2899035786022353135
+    second: Javier_199
+  - first:
+      213: -5723343226399733194
+    second: Javier_200
+  - first:
+      213: 7398227543698666374
+    second: Javier_201
+  - first:
+      213: -5310210782422682293
+    second: Javier_202
+  - first:
+      213: -2195589441917572544
+    second: Javier_203
+  - first:
+      213: -3295632473001588714
+    second: Javier_204
+  - first:
+      213: 5841881085787645201
+    second: Javier_205
+  - first:
+      213: 528480149006031033
+    second: Javier_206
+  - first:
+      213: -8520145712531764942
+    second: Javier_207
+  - first:
+      213: 5020164637382190506
+    second: Javier_208
+  - first:
+      213: 6434212232126086800
+    second: Javier_209
+  - first:
+      213: -5418656737436019704
+    second: Javier_210
+  - first:
+      213: -2270944831912328503
+    second: Javier_211
+  - first:
+      213: -4287837450579054286
+    second: Javier_212
+  - first:
+      213: -3026891756669002218
+    second: Javier_213
+  - first:
+      213: -5125716306891918226
+    second: Javier_214
+  - first:
+      213: 8691886605412456674
+    second: Javier_215
+  - first:
+      213: -6329869939700872060
+    second: Javier_216
+  - first:
+      213: -5467367396861712737
+    second: Javier_217
+  - first:
+      213: -2848856986991088472
+    second: Javier_218
+  - first:
+      213: -3894393518332226974
+    second: Javier_219
+  - first:
+      213: -4608156199062857731
+    second: Javier_220
+  - first:
+      213: -8207425976721903997
+    second: Javier_221
+  - first:
+      213: 8408363982973736435
+    second: Javier_222
+  - first:
+      213: -3633016248947912093
+    second: Javier_223
+  - first:
+      213: -6015766612306319266
+    second: Javier_224
+  - first:
+      213: 474719527195754487
+    second: Javier_225
+  - first:
+      213: 2864914003006967452
+    second: Javier_226
+  - first:
+      213: -8295981689395734428
+    second: Javier_227
+  - first:
+      213: -4890827958334673575
+    second: Javier_228
+  - first:
+      213: -5204814283376214343
+    second: Javier_229
+  - first:
+      213: 5784412546079897966
+    second: Javier_230
+  - first:
+      213: -6238833381992020898
+    second: Javier_231
+  - first:
+      213: -3691225023457253385
+    second: Javier_232
+  - first:
+      213: 3989743140541065659
+    second: Javier_233
+  - first:
+      213: -7788616565189492900
+    second: Javier_234
+  - first:
+      213: -353434786159278679
+    second: Javier_235
+  - first:
+      213: 8354596575642133743
+    second: Javier_236
+  - first:
+      213: -4344487258680313248
+    second: Javier_237
+  - first:
+      213: -3986708757729364327
+    second: Javier_238
+  - first:
+      213: -5086200834284327991
+    second: Javier_239
+  - first:
+      213: 6289329448943780496
+    second: Javier_240
+  - first:
+      213: -9095985152538431798
+    second: Javier_241
+  - first:
+      213: 7976848380382332480
+    second: Javier_242
+  - first:
+      213: 8500497715007924264
+    second: Javier_243
+  - first:
+      213: 5437223802047640832
+    second: Javier_244
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Javier
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 962
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c11bdd66d94d3120800000000000000
+      internalID: 2395151762145874371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 962
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b99ff9a295c73e40800000000000000
+      internalID: 5636190692385462706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 906
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a445586facd7f87c0800000000000000
+      internalID: -4066893627819469750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 906
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d53d7a664effd80800000000000000
+      internalID: -8214596065747051157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 906
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f73064b9a6cfcab0800000000000000
+      internalID: -4985547830297872394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 906
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55412ef98fe150010800000000000000
+      internalID: 1154362932673516629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 906
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e121ca01da2165710800000000000000
+      internalID: 1681552045387813406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 906
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b232b7d53b2013a30800000000000000
+      internalID: 4193135697449394987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 906
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98579e47b7ea2b1d0800000000000000
+      internalID: -3336412528662448759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 906
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e944b85f7a4a55470800000000000000
+      internalID: 8382787322706085022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 837
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495ff1ba49a48e260800000000000000
+      internalID: 7127028412700423572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 832
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88efc618a4ba630800000000000000
+      internalID: 3939324218805487817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 840
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b838c5fffe75c7c70800000000000000
+      internalID: 8970141246108238731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 832
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43077f5d4d70a7250800000000000000
+      internalID: 5943071268973015092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 832
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caedef108c675f410800000000000000
+      internalID: 1510243851451686572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 837
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db4d47d5693760c0800000000000000
+      internalID: -4582630986259543086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 845
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5febbce783763f40800000000000000
+      internalID: 5707876605368201054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 845
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b41637e8e2f034c0800000000000000
+      internalID: -4309677761268149068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 840
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f478c4b12ab4410800000000000000
+      internalID: 1462440742143610768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 833
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597d7fea002c95b10800000000000000
+      internalID: 1970819620142569365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 802
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504aa623904cddc00800000000000000
+      internalID: 927112642087789573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 736
+        width: 22
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce3a4225c0353fe0800000000000000
+      internalID: -1210007301637128503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 740
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7221a0865d4c77570800000000000000
+      internalID: 8464450445518705191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 807
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07b6f5d005898940800000000000000
+      internalID: 5298912675214309133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 740
+        width: 27
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96932ba734a7014a0800000000000000
+      internalID: -6624660621622101655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 794
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d09fbcff871c390800000000000000
+      internalID: -7799820039594898098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 740
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f30fe6b74010f70800000000000000
+      internalID: 9151600845982285725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 736
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289dd02dfc76ae5f0800000000000000
+      internalID: -726654247586899582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 736
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d0c6c20e02a5fd0800000000000000
+      internalID: -2352531708157620855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fef5c4505c011420800000000000000
+      internalID: 2598871999128665845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 774
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13138d5ac08a409b0800000000000000
+      internalID: -5114778504510557903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 736
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62202b8b00703830800000000000000
+      internalID: 4048859259887166062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 736
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e827391ae628e7f40800000000000000
+      internalID: 5728159187730657934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 770
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d64fd25546b55d70800000000000000
+      internalID: 9031325036620760784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 736
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d0843bc1bfe8700800000000000000
+      internalID: 544648705643908454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 732
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e6ef56326cf0950800000000000000
+      internalID: 6417565849363574412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 729
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34575343ebdaabd70800000000000000
+      internalID: 9059744632840484163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_43
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 678
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f5aa79d9baecbd0800000000000000
+      internalID: -2607958440858198186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 678
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdb8972794336e50800000000000000
+      internalID: 6801337686068608433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 728
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa28fd8f95c4010800000000000000
+      internalID: 1174412528273500775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_46
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 705
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f48dd886700c290800000000000000
+      internalID: -7872284003005870281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 677
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f63b61b36ca5c190800000000000000
+      internalID: -7942752823619668240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 677
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25bf1a05e01f50d0800000000000000
+      internalID: -3432005815129623252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_49
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 677
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b61888484dde22b0800000000000000
+      internalID: -5607301183505426767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 702
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54b14b6f5b6c5600800000000000000
+      internalID: 458359319650481245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 677
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be75d3d1245b120800000000000000
+      internalID: 2428920267386907444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 677
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7da195fd27cbf40800000000000000
+      internalID: 5745593528216115193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 678
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043eba82aa5c05f50800000000000000
+      internalID: 6868206766357472064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_54
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 678
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a479fca86285ce0800000000000000
+      internalID: -1416339705177880051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_55
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 715
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd59778a9e74e2e0800000000000000
+      internalID: -2097412324284867105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 701
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42e4e84048626a60800000000000000
+      internalID: 7665804141048160842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 693
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a4720327016c2c0800000000000000
+      internalID: -4411820702342624764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 688
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eacabc995226cf20800000000000000
+      internalID: 3442476733448243936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_59
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 688
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e236f9691eb958560800000000000000
+      internalID: 7315424562930213678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 619
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02c2f9d3e0f57930800000000000000
+      internalID: 4140480293841846798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 619
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d88f58437eb8d0b0800000000000000
+      internalID: -5703599525719996206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_62
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 666
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8757c0de2a076c190800000000000000
+      internalID: -7942537047757261448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 619
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd594841899530c0800000000000000
+      internalID: -4596599064119124483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 659
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112e11135eb9fe810800000000000000
+      internalID: 1796826185017188881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 620
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435e3d107e1170190800000000000000
+      internalID: -7996402929507244748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 620
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0371f478a3413540800000000000000
+      internalID: 4985840653271397130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 620
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756a50ffa96bc5730800000000000000
+      internalID: 3989264146763195991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 567
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326cc46dd50f67f80800000000000000
+      internalID: -8109029793216018909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 602
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef081cd8098615f0800000000000000
+      internalID: -786290413784264724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 563
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578cb4ad3f3ad2b00800000000000000
+      internalID: 805480176103966837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 607
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465910e38b013c10800000000000000
+      internalID: 2031417567949182532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_74
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 561
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0916a764d35b608d0800000000000000
+      internalID: -2880415636876795504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 602
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b266efd5a7f4770800000000000000
+      internalID: 8597224757792222013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 559
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aca24a66fbf01730800000000000000
+      internalID: 3967948307476688036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 554
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2208741844c26cfa0800000000000000
+      internalID: -5780884398945107934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 561
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b236e5cd2926de20800000000000000
+      internalID: 3374930247331230390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_79
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 563
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2311ad75f6dbdd960800000000000000
+      internalID: 7628461629748416818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_80
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 581
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5320c0415945382a0800000000000000
+      internalID: -6736447618352938443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_81
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 599
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a4fe4604abd2fa0800000000000000
+      internalID: -5823793957386106286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 567
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab7ccfde5bc6470800000000000000
+      internalID: 8389280239637215791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 571
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e716461f7ad4420800000000000000
+      internalID: 2615931613785194064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_84
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 589
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d2f37a1206460a0800000000000000
+      internalID: -6889275832313893590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_85
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 562
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10a3a4f414118bf0800000000000000
+      internalID: -323955617957699554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_86
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6847fe0cf6e926450800000000000000
+      internalID: 6080596649719067782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_87
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 486
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf54fa9372609e360800000000000000
+      internalID: 7199292244869727740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 486
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c05da7e141b3b440800000000000000
+      internalID: 4950495312028192965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 486
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053adf31d06449550800000000000000
+      internalID: 6166630811760960336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_90
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 538
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822e810d810af3580800000000000000
+      internalID: -8845175114701413848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 528
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c9735681310dab0800000000000000
+      internalID: -4985463792000852843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 487
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c897adbbe5c3b5ba0800000000000000
+      internalID: -6099214892766955124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_93
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 494
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4f0a51d3203e5d0800000000000000
+      internalID: -3034579262538451803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_94
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 488
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6f0ca7258a64c80800000000000000
+      internalID: -8338792587829643551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_95
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 488
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f2dca0db2263a0800000000000000
+      internalID: -6673723522556955222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_96
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 486
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ffd94e13fb83410800000000000000
+      internalID: 1457124700464217869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_97
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 486
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a66257bd21f11a0800000000000000
+      internalID: -6836724975552533881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_98
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 498
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4b5dc56961f6220800000000000000
+      internalID: 2481226754762847420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_99
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 486
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b2ae3d4197807e0800000000000000
+      internalID: -1799054920772867277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_100
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 428
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932913a26c372f500800000000000000
+      internalID: 428532209502229049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_101
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 477
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558ec5fe0a981b360800000000000000
+      internalID: 7183674204936267861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_102
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 427
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2115ce796503b9350800000000000000
+      internalID: 6024462075012337938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_103
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 427
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971044a19611940a0800000000000000
+      internalID: -6896962211231301255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 428
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2202e9df0b5509160800000000000000
+      internalID: 7030213236982947874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_105
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 468
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fe591195e9056e0800000000000000
+      internalID: -1850805341464957115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_106
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6007bdb7f24f120800000000000000
+      internalID: 2446632706578056929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_107
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 428
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9986c4c5faa4f40800000000000000
+      internalID: 5713571888226671048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_108
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 459
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c236d49d8f85ed0800000000000000
+      internalID: -2424914787149075365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_109
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 431
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b028da37ebb4bae0800000000000000
+      internalID: -1534394971227414351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_110
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 428
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a526798fdf57ff170800000000000000
+      internalID: 8214413979004920410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_111
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 459
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c51988b390ca0870800000000000000
+      internalID: 8649937775007176132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 428
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87212cd79b18cc6f0800000000000000
+      internalID: -663012411451501960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_113
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 428
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48ba28c9e045fa50800000000000000
+      internalID: 6554216205537425483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_114
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 442
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e696c159142ed0800000000000000
+      internalID: -2439797259113143385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_115
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 400
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207fd821cffc66170800000000000000
+      internalID: 8171447255460345602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_116
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 345
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db319653d173a740800000000000000
+      internalID: 5162094750401117145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 413
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae684104c3bf3db60800000000000000
+      internalID: 7769830018335934186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 345
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2bd90dde80b8c80800000000000000
+      internalID: -8319546069136592170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_119
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 385
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f4d4710657d78f0800000000000000
+      internalID: -541147324646338754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_120
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 345
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5966a040f9cb16d20800000000000000
+      internalID: 3270102195601303189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_121
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 345
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697e891b2264d4bb0800000000000000
+      internalID: -4950223300587886698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_122
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 345
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692570fc8b6fad960800000000000000
+      internalID: 7627680192513135254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 345
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5637fe954c71d7990800000000000000
+      internalID: -7386721681727851675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_124
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 345
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b04304f9a6b9a960800000000000000
+      internalID: 7613817486106116280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_125
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 345
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978a4699c6220dc80800000000000000
+      internalID: -8300096263418500999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_126
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 345
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bcafc0f8b18f590800000000000000
+      internalID: -7640326466622010580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 345
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2df057d5f465370800000000000000
+      internalID: 8310917425173353212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_128
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 345
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21488d8b174c190a0800000000000000
+      internalID: -6876499163306490862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_129
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 332
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3bcd19a645f1650800000000000000
+      internalID: 6205771628230259700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_130
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 330
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f105ed3b621aade0800000000000000
+      internalID: -1321223288870600206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_131
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 334
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386f7b70774986d80800000000000000
+      internalID: -8257186677832288637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_132
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 330
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15987ae0321c1950800000000000000
+      internalID: 6421027170024985887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_133
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 295
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d30812797453c60800000000000000
+      internalID: 7797217044289568002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_134
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 297
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b11b679ca3beb30800000000000000
+      internalID: 4317609304718908241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_135
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 297
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750a68d3e81a4b20800000000000000
+      internalID: 3119333058774959481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_136
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 297
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0ee82c5d35ee5e0800000000000000
+      internalID: -1878471817009635145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_137
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 297
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a0cfa6332b1f180800000000000000
+      internalID: -9083283039521600971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_138
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 324
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7807a81955c4312a0800000000000000
+      internalID: -6767981884610023289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_139
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 297
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c141767290b3d170800000000000000
+      internalID: 8202093489470652864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_140
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 297
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e26d7a27d133a810800000000000000
+      internalID: 1775317478314697445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_141
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 230
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549ab57275d4f7d50800000000000000
+      internalID: 6737188604287363397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_142
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 282
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb346d9504a21c90800000000000000
+      internalID: -7200512510189618202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_143
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 277
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaf03a22a36fce90800000000000000
+      internalID: -7003269347394127129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_144
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 230
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cecb5d421e2fb4b0800000000000000
+      internalID: -5422564770188636473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_145
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 232
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf060f185816a4e0800000000000000
+      internalID: -1970861020171333681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_146
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 235
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2ad4d0285359110800000000000000
+      internalID: 1266977702859874985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_147
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 232
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e92e66b9798b30800000000000000
+      internalID: 4290093944486356481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_148
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 230
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244402368d967b4b0800000000000000
+      internalID: -5424750848047561662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_149
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 230
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fef13f7892406b0800000000000000
+      internalID: -5331090395023544557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_150
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 230
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2768780428bd43e0800000000000000
+      internalID: -2067794188992747734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 259
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efae39df1a928b70800000000000000
+      internalID: 8899845275216949223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_152
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 230
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ccaf2e1932388c0800000000000000
+      internalID: -3998312934689551281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 167
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4f261576c8db950800000000000000
+      internalID: 6466479015348860111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_154
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 214
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63a3c5704f34bec0800000000000000
+      internalID: -3552144660002266262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_155
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 168
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90df87dc285c68d00800000000000000
+      internalID: 974683534955969801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_156
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 168
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76358d9975ea110800000000000000
+      internalID: 1274052062863386573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_157
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 168
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc4c2cc2ff4a3210800000000000000
+      internalID: 1313450145558056144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_158
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 168
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeee80c740ccb6ba0800000000000000
+      internalID: -6094553351082938642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_159
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 168
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953b2012969640aa0800000000000000
+      internalID: -6195711287108652199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_160
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 168
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8d9462095c18440800000000000000
+      internalID: 4936443889483110598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_161
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 204
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c7c2fb2671d9b10800000000000000
+      internalID: 1989772323249224796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_162
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 187
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ff07122241e8a30800000000000000
+      internalID: 4219332037715230494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_163
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 168
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ab139237cf17b20800000000000000
+      internalID: 3130560787541768750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_164
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 150
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2316fe47f9e6dce20800000000000000
+      internalID: 3372473327111070002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_167
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 106
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2215a760d7bd15900800000000000000
+      internalID: 671559149480988962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_168
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 106
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7ce9e1ca706a80800000000000000
+      internalID: -8475639525439407314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_169
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 106
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a7aec3502e6e100800000000000000
+      internalID: 137045350806092420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_170
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 106
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d50d6289a4afcb0800000000000000
+      internalID: -4829465633054761610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_171
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 106
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3884d0d227dc382a0800000000000000
+      internalID: -6736314727350318973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 107
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4e14bafb72d0a00800000000000000
+      internalID: 724278819241977044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 107
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4cfd7dc9d7e6170800000000000000
+      internalID: 8173608486314165421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 107
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e46bedbbae1f6b0800000000000000
+      internalID: -5264168396803125751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_176
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 106
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ca8cf0b62b21c10800000000000000
+      internalID: 2022875355538828349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_177
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 106
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f48c8eb74eb510800000000000000
+      internalID: 1566768604098394420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_178
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 109
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf5e76fce9e4ee0800000000000000
+      internalID: -1274907030860726842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_180
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 92
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773d81edda860b460800000000000000
+      internalID: 7255414095658668919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_181
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a4d0a1677108850800000000000000
+      internalID: 6377122868367280731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_192
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd5609fdea39ca0800000000000000
+      internalID: -6011268802385945619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_193
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bccdf7543423b2d0800000000000000
+      internalID: -3264225497680327496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_194
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b535917cf043eba50800000000000000
+      internalID: 6538720951358018395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_195
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb29bba61c20e4c0800000000000000
+      internalID: -4260356771610547224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_196
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19b91be50b9137a0800000000000000
+      internalID: -6399163145795290850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_197
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e7481394e4f9ff0800000000000000
+      internalID: -27216996470587863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_198
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc09990ca367ca80800000000000000
+      internalID: -8446672985563525954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_199
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1170ef6ff4e84c7d0800000000000000
+      internalID: -2899035786022353135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 17
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a4eceb8a99290b0800000000000000
+      internalID: -5723343226399733194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_201
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6837ba5e0c8cba660800000000000000
+      internalID: 7398227543698666374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_202
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b453f379d675e46b0800000000000000
+      internalID: -5310210782422682293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aa7e90903b781e0800000000000000
+      internalID: -2195589441917572544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6188f701abf8342d0800000000000000
+      internalID: -3295632473001588714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_205
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115227a55e7821150800000000000000
+      internalID: 5841881085787645201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_206
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8995045e9855700800000000000000
+      internalID: 528480149006031033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_207
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2390af9bd9c52c980800000000000000
+      internalID: -8520145712531764942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_208
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5a425c3253ba540800000000000000
+      internalID: 5020164637382190506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_209
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e39596fe9ea4950800000000000000
+      internalID: 6434212232126086800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_210
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804595518601dc4b0800000000000000
+      internalID: -5418656737436019704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 16
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c24b5515bbfb70e0800000000000000
+      internalID: -2270944831912328503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_212
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2317e9f7e8a8e74c0800000000000000
+      internalID: -4287837450579054286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_213
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e9f260cf15ef5d0800000000000000
+      internalID: -3026891756669002218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_214
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b7441d2ccdd8b0800000000000000
+      internalID: -5125716306891918226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_215
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8d597e0d8cf9870800000000000000
+      internalID: 8691886605412456674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_216
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc4b1b3d8c728a0800000000000000
+      internalID: -6329869939700872060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_217
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f966185e1520024b0800000000000000
+      internalID: -5467367396861712737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 16
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca18a0aa3d678d0800000000000000
+      internalID: -2848856986991088472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_219
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262593c7ab554f9c0800000000000000
+      internalID: -3894393518332226974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_220
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7185d1a5a8c00c0800000000000000
+      internalID: -4608156199062857731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_221
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e6d291f8d591e80800000000000000
+      internalID: -8207425976721903997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_222
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5965b3e7280b470800000000000000
+      internalID: 8408363982973736435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_223
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362dc3a58fee49dc0800000000000000
+      internalID: -3633016248947912093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_224
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58a3d59324b38ca0800000000000000
+      internalID: -6015766612306319266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_225
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffb17215ea869600800000000000000
+      internalID: 474719527195754487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_226
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ec5455b1832c720800000000000000
+      internalID: 2864914003006967452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_227
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4681c648b90cedc80800000000000000
+      internalID: -8295981689395734428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 18
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95da9e572e9402cb0800000000000000
+      internalID: -4890827958334673575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_229
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 5
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be3b7d4cf8c4c7b0800000000000000
+      internalID: -5204814283376214343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_230
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 4
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69b763409c564050800000000000000
+      internalID: 5784412546079897966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_231
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54448508163b69a0800000000000000
+      internalID: -6238833381992020898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_232
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f72ccae56226ccc0800000000000000
+      internalID: -3691225023457253385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_233
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 5
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9600d6f3a6e5730800000000000000
+      internalID: 3989743140541065659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_234
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 17
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f3824ff7649e390800000000000000
+      internalID: -7788616565189492900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_235
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5c5bf3fe8581bf0800000000000000
+      internalID: -353434786159278679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_236
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe428dc225d71f370800000000000000
+      internalID: 8354596575642133743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_237
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a36273bd745b3c0800000000000000
+      internalID: -4344487258680313248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_238
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963a90e18d5ca8c0800000000000000
+      internalID: -3986708757729364327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_239
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbef200a4f2a69b0800000000000000
+      internalID: -5086200834284327991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_240
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09282bfbfcf284750800000000000000
+      internalID: 6289329448943780496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_241
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace28b442b194c180800000000000000
+      internalID: -9095985152538431798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_242
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 5
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046c6dbb65573be60800000000000000
+      internalID: 7976848380382332480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_243
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828211d52a5d7f570800000000000000
+      internalID: 8500497715007924264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Javier_244
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 4
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00539558d36e47b40800000000000000
+      internalID: 5437223802047640832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8272e0b3a4884ee48948b7ab1afd2ece
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack1: -7996402929507244748
+      Attack2: 4985840653271397130
+      Attack3: 3989264146763195991
+      Dash1: -4582630986259543086
+      Dash2: 5707876605368201054
+      Dash3: 1970819620142569365
+      Dash4: -4309677761268149068
+      Dash5: 1462440742143610768
+      Death1: -5723343226399733194
+      Death2: -3295632473001588714
+      Death3: -2270944831912328503
+      Death4: -2848856986991088472
+      Death5: -4890827958334673575
+      Hit1: 724278819241977044
+      Hit2: 8173608486314165421
+      Hit3: -5264168396803125751
+      Idle: 5636190692385462706
+      Javier: 2395151762145874371
+      Javier_100: 428532209502229049
+      Javier_101: 7183674204936267861
+      Javier_102: 6024462075012337938
+      Javier_103: -6896962211231301255
+      Javier_104: 7030213236982947874
+      Javier_105: -1850805341464957115
+      Javier_106: 2446632706578056929
+      Javier_107: 5713571888226671048
+      Javier_108: -2424914787149075365
+      Javier_109: -1534394971227414351
+      Javier_110: 8214413979004920410
+      Javier_111: 8649937775007176132
+      Javier_112: -663012411451501960
+      Javier_113: 6554216205537425483
+      Javier_114: -2439797259113143385
+      Javier_115: 8171447255460345602
+      Javier_116: 5162094750401117145
+      Javier_117: 7769830018335934186
+      Javier_118: -8319546069136592170
+      Javier_119: -541147324646338754
+      Javier_12: -7055805488235746002
+      Javier_120: 3270102195601303189
+      Javier_121: -4950223300587886698
+      Javier_122: 7627680192513135254
+      Javier_123: -7386721681727851675
+      Javier_124: 7613817486106116280
+      Javier_125: -8300096263418500999
+      Javier_126: -7640326466622010580
+      Javier_127: 8310917425173353212
+      Javier_128: -6876499163306490862
+      Javier_129: 6205771628230259700
+      Javier_130: -1321223288870600206
+      Javier_131: -8257186677832288637
+      Javier_132: 6421027170024985887
+      Javier_133: 7797217044289568002
+      Javier_134: 4317609304718908241
+      Javier_135: 3119333058774959481
+      Javier_136: -1878471817009635145
+      Javier_137: -9083283039521600971
+      Javier_138: -6767981884610023289
+      Javier_139: 8202093489470652864
+      Javier_14: -8454764516372640551
+      Javier_140: 1775317478314697445
+      Javier_141: 6737188604287363397
+      Javier_142: -7200512510189618202
+      Javier_143: -7003269347394127129
+      Javier_144: -5422564770188636473
+      Javier_145: -1970861020171333681
+      Javier_146: 1266977702859874985
+      Javier_147: 4290093944486356481
+      Javier_148: -5424750848047561662
+      Javier_149: -5331090395023544557
+      Javier_150: -2067794188992747734
+      Javier_151: 8899845275216949223
+      Javier_152: -3998312934689551281
+      Javier_153: 6466479015348860111
+      Javier_154: -3552144660002266262
+      Javier_155: 974683534955969801
+      Javier_156: 1274052062863386573
+      Javier_157: 1313450145558056144
+      Javier_158: -6094553351082938642
+      Javier_159: -6195711287108652199
+      Javier_160: 4936443889483110598
+      Javier_161: 1989772323249224796
+      Javier_162: 4219332037715230494
+      Javier_163: 3130560787541768750
+      Javier_164: 3372473327111070002
+      Javier_165: -4441521635198505119
+      Javier_166: 1226874262882082114
+      Javier_167: 671559149480988962
+      Javier_168: -8475639525439407314
+      Javier_169: 137045350806092420
+      Javier_170: -4829465633054761610
+      Javier_171: -6736314727350318973
+      Javier_174: -6889718660376389798
+      Javier_176: 2022875355538828349
+      Javier_177: 1566768604098394420
+      Javier_178: -1274907030860726842
+      Javier_179: 1183539063717194644
+      Javier_18: 1510243851451686572
+      Javier_180: 7255414095658668919
+      Javier_181: 6377122868367280731
+      Javier_182: -627281919079883362
+      Javier_183: -2076132634920814280
+      Javier_184: 7625834275693829664
+      Javier_185: -844752116178779196
+      Javier_186: -2408990037029433977
+      Javier_187: 7823309184601894638
+      Javier_188: -4566611206225521745
+      Javier_189: 7249921679568308784
+      Javier_19: -3017056330017996979
+      Javier_190: 3921755166829576595
+      Javier_191: -8314004901784962557
+      Javier_192: -6011268802385945619
+      Javier_193: -3264225497680327496
+      Javier_194: 6538720951358018395
+      Javier_195: -4260356771610547224
+      Javier_196: -6399163145795290850
+      Javier_197: -27216996470587863
+      Javier_198: -8446672985563525954
+      Javier_199: -2899035786022353135
+      Javier_201: 7398227543698666374
+      Javier_202: -5310210782422682293
+      Javier_203: -2195589441917572544
+      Javier_205: 5841881085787645201
+      Javier_206: 528480149006031033
+      Javier_207: -8520145712531764942
+      Javier_208: 5020164637382190506
+      Javier_209: 6434212232126086800
+      Javier_210: -5418656737436019704
+      Javier_212: -4287837450579054286
+      Javier_213: -3026891756669002218
+      Javier_214: -5125716306891918226
+      Javier_215: 8691886605412456674
+      Javier_216: -6329869939700872060
+      Javier_217: -5467367396861712737
+      Javier_219: -3894393518332226974
+      Javier_22: -461851327510780991
+      Javier_220: -4608156199062857731
+      Javier_221: -8207425976721903997
+      Javier_222: 8408363982973736435
+      Javier_223: -3633016248947912093
+      Javier_224: -6015766612306319266
+      Javier_225: 474719527195754487
+      Javier_226: 2864914003006967452
+      Javier_227: -8295981689395734428
+      Javier_229: -5204814283376214343
+      Javier_230: 5784412546079897966
+      Javier_231: -6238833381992020898
+      Javier_232: -3691225023457253385
+      Javier_233: 3989743140541065659
+      Javier_234: -7788616565189492900
+      Javier_235: -353434786159278679
+      Javier_236: 8354596575642133743
+      Javier_237: -4344487258680313248
+      Javier_238: -3986708757729364327
+      Javier_239: -5086200834284327991
+      Javier_240: 6289329448943780496
+      Javier_241: -9095985152538431798
+      Javier_242: 7976848380382332480
+      Javier_243: 8500497715007924264
+      Javier_244: 5437223802047640832
+      Javier_26: 927112642087789573
+      Javier_27: -1210007301637128503
+      Javier_28: 8464450445518705191
+      Javier_29: 5298912675214309133
+      Javier_30: -6624660621622101655
+      Javier_31: -7799820039594898098
+      Javier_32: 9151600845982285725
+      Javier_33: -726654247586899582
+      Javier_34: -2352531708157620855
+      Javier_35: 2598871999128665845
+      Javier_36: -5114778504510557903
+      Javier_37: 4048859259887166062
+      Javier_38: 5728159187730657934
+      Javier_39: 9031325036620760784
+      Javier_4: 4049502402871293339
+      Javier_40: 544648705643908454
+      Javier_41: 6417565849363574412
+      Javier_42: 9059744632840484163
+      Javier_43: -2607958440858198186
+      Javier_44: 6801337686068608433
+      Javier_45: 1174412528273500775
+      Javier_46: -7872284003005870281
+      Javier_47: -7942752823619668240
+      Javier_48: -3432005815129623252
+      Javier_49: -5607301183505426767
+      Javier_50: 458359319650481245
+      Javier_51: 2428920267386907444
+      Javier_52: 5745593528216115193
+      Javier_53: 6868206766357472064
+      Javier_54: -1416339705177880051
+      Javier_55: -2097412324284867105
+      Javier_56: 7665804141048160842
+      Javier_57: -4411820702342624764
+      Javier_58: 3442476733448243936
+      Javier_59: 7315424562930213678
+      Javier_60: 4140480293841846798
+      Javier_61: -5703599525719996206
+      Javier_62: -7942537047757261448
+      Javier_63: -4596599064119124483
+      Javier_64: 1796826185017188881
+      Javier_66: 4976011695060354681
+      Javier_67: -7427496617742948397
+      Javier_70: -8109029793216018909
+      Javier_71: -786290413784264724
+      Javier_72: 805480176103966837
+      Javier_73: 2031417567949182532
+      Javier_74: -2880415636876795504
+      Javier_75: 8597224757792222013
+      Javier_76: 3967948307476688036
+      Javier_77: -5780884398945107934
+      Javier_78: 3374930247331230390
+      Javier_79: 7628461629748416818
+      Javier_80: -6736447618352938443
+      Javier_81: -5823793957386106286
+      Javier_82: 8389280239637215791
+      Javier_83: 2615931613785194064
+      Javier_84: -6889275832313893590
+      Javier_85: -323955617957699554
+      Javier_86: 6080596649719067782
+      Javier_87: 7199292244869727740
+      Javier_88: 4950495312028192965
+      Javier_89: 6166630811760960336
+      Javier_9: 7326250048769654564
+      Javier_90: -8845175114701413848
+      Javier_91: -4985463792000852843
+      Javier_92: -6099214892766955124
+      Javier_93: -3034579262538451803
+      Javier_94: -8338792587829643551
+      Javier_95: -6673723522556955222
+      Javier_96: 1457124700464217869
+      Javier_97: -6836724975552533881
+      Javier_98: 2481226754762847420
+      Javier_99: -1799054920772867277
+      Jump1: 3939324218805487817
+      Jump2: 8970141246108238731
+      Jump3: 7127028412700423572
+      Jump4: 5943071268973015092
+      Run1: -4066893627819469750
+      Run2: -8214596065747051157
+      Run3: -4985547830297872394
+      Run4: 1154362932673516629
+      Run5: 1681552045387813406
+      Run6: 4193135697449394987
+      Run7: -3336412528662448759
+      Run8: 8382787322706085022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

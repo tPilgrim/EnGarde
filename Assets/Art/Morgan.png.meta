@@ -1,0 +1,6493 @@
+fileFormatVersion: 2
+guid: d31fccc24a57bd1458ee6acd5ccc56ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9074548599303178234
+    second: Morgan_0
+  - first:
+      213: -6287856987810610203
+    second: Morgan_1
+  - first:
+      213: -2210613575492771619
+    second: Morgan_2
+  - first:
+      213: -3733861002952731373
+    second: Morgan_3
+  - first:
+      213: -9012783578734825089
+    second: Morgan_4
+  - first:
+      213: 9170329715318472166
+    second: Morgan_5
+  - first:
+      213: -1370447891608036111
+    second: Morgan_6
+  - first:
+      213: 8800642087075144549
+    second: Morgan_7
+  - first:
+      213: 5066985606700364733
+    second: Morgan_8
+  - first:
+      213: -7967047765862588305
+    second: Morgan_9
+  - first:
+      213: -6381086591249971366
+    second: Morgan_10
+  - first:
+      213: 5631223729420816955
+    second: Morgan_11
+  - first:
+      213: -4989771972650522267
+    second: Morgan_12
+  - first:
+      213: 959513768232844433
+    second: Morgan_13
+  - first:
+      213: 5281311848372116859
+    second: Morgan_14
+  - first:
+      213: -409013702988240109
+    second: Morgan_15
+  - first:
+      213: 2994457079937788633
+    second: Morgan_16
+  - first:
+      213: 6807470240913865834
+    second: Morgan_17
+  - first:
+      213: 546846187199926689
+    second: Morgan_18
+  - first:
+      213: 2124716346287678064
+    second: Morgan_19
+  - first:
+      213: -5041729499779656116
+    second: Morgan_20
+  - first:
+      213: -6343932770953820516
+    second: Morgan_21
+  - first:
+      213: -4730483830622703359
+    second: Morgan_22
+  - first:
+      213: 5206454567563270620
+    second: Morgan_23
+  - first:
+      213: 1549946850862228704
+    second: Morgan_24
+  - first:
+      213: -4716654640311930634
+    second: Morgan_25
+  - first:
+      213: 1792782124972847388
+    second: Morgan_26
+  - first:
+      213: -3470049977094637940
+    second: Morgan_27
+  - first:
+      213: -4420665667447122697
+    second: Morgan_28
+  - first:
+      213: -7788704611696751222
+    second: Morgan_29
+  - first:
+      213: 4752387866424918631
+    second: Morgan_30
+  - first:
+      213: -3507001787972626237
+    second: Morgan_31
+  - first:
+      213: 7500680066679668328
+    second: Morgan_32
+  - first:
+      213: -1405311244942222302
+    second: Morgan_33
+  - first:
+      213: -1460070242895900486
+    second: Morgan_34
+  - first:
+      213: -7741454850935213831
+    second: Morgan_35
+  - first:
+      213: 7481861543165113597
+    second: Morgan_36
+  - first:
+      213: -7761311951632405092
+    second: Morgan_37
+  - first:
+      213: 3921277092006351210
+    second: Morgan_38
+  - first:
+      213: 2875487540451587882
+    second: Morgan_39
+  - first:
+      213: 4825211551916768765
+    second: Morgan_40
+  - first:
+      213: 3859750778909239983
+    second: Morgan_41
+  - first:
+      213: -8374407327799812601
+    second: Morgan_42
+  - first:
+      213: 3857097462299533498
+    second: Morgan_43
+  - first:
+      213: 6981383287058527981
+    second: Morgan_44
+  - first:
+      213: -4758491375867966091
+    second: Morgan_45
+  - first:
+      213: -6082106430451803936
+    second: Morgan_46
+  - first:
+      213: -4305730879506424510
+    second: Morgan_47
+  - first:
+      213: 2456079941119021041
+    second: Morgan_48
+  - first:
+      213: 5593978305195990263
+    second: Morgan_49
+  - first:
+      213: 2120590909879449043
+    second: Morgan_50
+  - first:
+      213: -4099584060007774324
+    second: Morgan_51
+  - first:
+      213: 6509320786331672966
+    second: Morgan_52
+  - first:
+      213: -6489218959185527802
+    second: Morgan_53
+  - first:
+      213: 8989817242870953570
+    second: Morgan_54
+  - first:
+      213: 5572591343776991015
+    second: Morgan_55
+  - first:
+      213: -476674887179466841
+    second: Morgan_56
+  - first:
+      213: -7346761037807483592
+    second: Morgan_57
+  - first:
+      213: -5940217831011722423
+    second: Morgan_58
+  - first:
+      213: -7471301790697505994
+    second: Morgan_59
+  - first:
+      213: -6317626866774804109
+    second: Morgan_60
+  - first:
+      213: -8580391584958265870
+    second: Morgan_61
+  - first:
+      213: -4525005591740998609
+    second: Morgan_62
+  - first:
+      213: -2041421395259506306
+    second: Morgan_63
+  - first:
+      213: -7490268243461003005
+    second: Morgan_64
+  - first:
+      213: -867177218919433199
+    second: Morgan_65
+  - first:
+      213: 5323224622999015431
+    second: Morgan_66
+  - first:
+      213: -8949178300663997459
+    second: Morgan_67
+  - first:
+      213: -7673760482887829694
+    second: Morgan_68
+  - first:
+      213: -7706996055091059887
+    second: Morgan_69
+  - first:
+      213: 2598842376098263363
+    second: Morgan_70
+  - first:
+      213: -8205316545295218435
+    second: Morgan_71
+  - first:
+      213: 982921041846628141
+    second: Morgan_72
+  - first:
+      213: -6874518629788518061
+    second: Morgan_73
+  - first:
+      213: -6413340538485758285
+    second: Morgan_74
+  - first:
+      213: 1792363747638501138
+    second: Morgan_75
+  - first:
+      213: 4118070897611025727
+    second: Morgan_76
+  - first:
+      213: -288795279832915574
+    second: Morgan_77
+  - first:
+      213: 2280129967121581707
+    second: Morgan_78
+  - first:
+      213: 7259229081357938093
+    second: Morgan_79
+  - first:
+      213: 4530803581512433619
+    second: Morgan_80
+  - first:
+      213: 2238246166082893691
+    second: Morgan_81
+  - first:
+      213: -8399817664975088247
+    second: Morgan_82
+  - first:
+      213: -84952630034153266
+    second: Morgan_83
+  - first:
+      213: 1307859058119844073
+    second: Morgan_84
+  - first:
+      213: -829200586503239085
+    second: Morgan_85
+  - first:
+      213: -1322360976944653708
+    second: Morgan_86
+  - first:
+      213: 1148732620882001653
+    second: Morgan_87
+  - first:
+      213: 1313516137078962649
+    second: Morgan_88
+  - first:
+      213: 8171569961401466395
+    second: Morgan_89
+  - first:
+      213: 1222942640302560350
+    second: Morgan_90
+  - first:
+      213: 1501548965330386738
+    second: Morgan_91
+  - first:
+      213: -5944391579873512714
+    second: Morgan_92
+  - first:
+      213: 7493619886747566898
+    second: Morgan_93
+  - first:
+      213: -1143500421269289828
+    second: Morgan_94
+  - first:
+      213: 3066612050929877246
+    second: Morgan_95
+  - first:
+      213: -2002097181380272843
+    second: Morgan_96
+  - first:
+      213: -2878919523768166231
+    second: Morgan_97
+  - first:
+      213: -5095647144171129189
+    second: Morgan_98
+  - first:
+      213: -3886360243537066064
+    second: Morgan_99
+  - first:
+      213: 1171770043696428819
+    second: Morgan_100
+  - first:
+      213: 8703095631228478093
+    second: Morgan_101
+  - first:
+      213: -2380545790907176986
+    second: Morgan_102
+  - first:
+      213: 5739678514521758931
+    second: Morgan_103
+  - first:
+      213: 2065652366153958001
+    second: Morgan_104
+  - first:
+      213: -7551459768506108839
+    second: Morgan_105
+  - first:
+      213: 3337828424990332281
+    second: Morgan_106
+  - first:
+      213: 4608288981090011756
+    second: Morgan_107
+  - first:
+      213: 760767000463242311
+    second: Morgan_108
+  - first:
+      213: 3561882432177860324
+    second: Morgan_109
+  - first:
+      213: -6955235856556044107
+    second: Morgan_110
+  - first:
+      213: -7194735515488290961
+    second: Morgan_111
+  - first:
+      213: -4734990930508825344
+    second: Morgan_112
+  - first:
+      213: 6808512265631657002
+    second: Morgan_113
+  - first:
+      213: 7086530798726088082
+    second: Morgan_114
+  - first:
+      213: -432768330463671727
+    second: Morgan_115
+  - first:
+      213: -6572906924489811098
+    second: Morgan_116
+  - first:
+      213: -7409709759128284189
+    second: Morgan_117
+  - first:
+      213: 6433349339928736654
+    second: Morgan_118
+  - first:
+      213: 2409912879530170493
+    second: Morgan_119
+  - first:
+      213: -7478668349887425423
+    second: Morgan_120
+  - first:
+      213: 8019742952562451522
+    second: Morgan_121
+  - first:
+      213: -7764940336571683768
+    second: Morgan_122
+  - first:
+      213: 6035810792996921657
+    second: Morgan_123
+  - first:
+      213: -7842714777510161542
+    second: Morgan_124
+  - first:
+      213: -1314204802846140162
+    second: Morgan_125
+  - first:
+      213: -9142633375510386529
+    second: Morgan_126
+  - first:
+      213: -7948439957403288286
+    second: Morgan_127
+  - first:
+      213: -1278125707178142472
+    second: Morgan_128
+  - first:
+      213: -4283785539989234285
+    second: Morgan_129
+  - first:
+      213: 4405322055879938815
+    second: Morgan_130
+  - first:
+      213: -3053053107905384246
+    second: Morgan_131
+  - first:
+      213: -784429173174693397
+    second: Morgan_132
+  - first:
+      213: -7637462197764760457
+    second: Morgan_133
+  - first:
+      213: 6625093496706548174
+    second: Morgan_134
+  - first:
+      213: 8586205707032551498
+    second: Morgan_135
+  - first:
+      213: -9112255338258533275
+    second: Morgan_136
+  - first:
+      213: 1517704953776290997
+    second: Morgan_137
+  - first:
+      213: 5988128572281910653
+    second: Morgan_138
+  - first:
+      213: 4730541625207145157
+    second: Morgan_139
+  - first:
+      213: -995500511022714813
+    second: Morgan_140
+  - first:
+      213: -1751254421054829991
+    second: Morgan_141
+  - first:
+      213: 1894783896842102278
+    second: Morgan_142
+  - first:
+      213: -3620577146688890239
+    second: Morgan_143
+  - first:
+      213: 8147077037175722623
+    second: Morgan_144
+  - first:
+      213: 6297798058161568207
+    second: Morgan_145
+  - first:
+      213: 9157793811569843668
+    second: Morgan_146
+  - first:
+      213: -3328402864676149622
+    second: Morgan_147
+  - first:
+      213: -8126702079095756437
+    second: Morgan_148
+  - first:
+      213: 4781591869917099909
+    second: Morgan_149
+  - first:
+      213: 6044456529493811669
+    second: Morgan_150
+  - first:
+      213: 8221550433929288152
+    second: Morgan_151
+  - first:
+      213: -1256126222187972046
+    second: Morgan_152
+  - first:
+      213: 1046121843177412885
+    second: Morgan_153
+  - first:
+      213: 7440560690334259353
+    second: Morgan_154
+  - first:
+      213: -3578196729267343842
+    second: Morgan_155
+  - first:
+      213: -5098396570243419483
+    second: Morgan_156
+  - first:
+      213: 2137738452702519953
+    second: Morgan_157
+  - first:
+      213: 1333810872842543656
+    second: Morgan_158
+  - first:
+      213: -2485107768946592289
+    second: Morgan_159
+  - first:
+      213: 6080502828523046097
+    second: Morgan_160
+  - first:
+      213: 3168001372564780834
+    second: Morgan_161
+  - first:
+      213: 5860692394069930451
+    second: Morgan_162
+  - first:
+      213: 9042406557750174228
+    second: Morgan_163
+  - first:
+      213: -1457351641292448168
+    second: Morgan_164
+  - first:
+      213: 8282678912629577016
+    second: Morgan_165
+  - first:
+      213: -670398424130433525
+    second: Morgan_166
+  - first:
+      213: -8175644385848974854
+    second: Morgan_167
+  - first:
+      213: -7957109628327550831
+    second: Morgan_168
+  - first:
+      213: 2357979319505038360
+    second: Morgan_169
+  - first:
+      213: -3096307734970128060
+    second: Morgan_170
+  - first:
+      213: 5087153966001968366
+    second: Morgan_171
+  - first:
+      213: 8544727236434281139
+    second: Morgan_172
+  - first:
+      213: -146946406163716670
+    second: Morgan_173
+  - first:
+      213: 4453509942877123391
+    second: Morgan_174
+  - first:
+      213: 3429793783131962922
+    second: Morgan_175
+  - first:
+      213: -5546247555421348304
+    second: Morgan_176
+  - first:
+      213: 1986136893109189330
+    second: Morgan_177
+  - first:
+      213: 8223215882509319436
+    second: Morgan_178
+  - first:
+      213: -4818634426447855292
+    second: Morgan_179
+  - first:
+      213: -6250698388318153002
+    second: Morgan_180
+  - first:
+      213: 4942980463326632979
+    second: Morgan_181
+  - first:
+      213: 1221178726481527945
+    second: Morgan_182
+  - first:
+      213: -7334324432743988891
+    second: Morgan_183
+  - first:
+      213: 3570921955423607402
+    second: Morgan_184
+  - first:
+      213: -9201642027683476077
+    second: Morgan_185
+  - first:
+      213: 2952238572306531667
+    second: Morgan_186
+  - first:
+      213: 502171459711441881
+    second: Morgan_187
+  - first:
+      213: -8275857808928189219
+    second: Morgan_188
+  - first:
+      213: -6378694495059877457
+    second: Morgan_189
+  - first:
+      213: 9060496777451483794
+    second: Morgan_190
+  - first:
+      213: 348785302000575968
+    second: Morgan_191
+  - first:
+      213: -2299682377902259147
+    second: Morgan_192
+  - first:
+      213: 999625010292596171
+    second: Morgan_193
+  - first:
+      213: -5401882168422798007
+    second: Morgan_194
+  - first:
+      213: 7988007357205488392
+    second: Morgan_195
+  - first:
+      213: 8745286991403679751
+    second: Morgan_196
+  - first:
+      213: 6392483837538523038
+    second: Morgan_197
+  - first:
+      213: -6726852893924512728
+    second: Morgan_198
+  - first:
+      213: -2940876830048628871
+    second: Morgan_199
+  - first:
+      213: 511781820972505002
+    second: Morgan_200
+  - first:
+      213: 7653021824185670057
+    second: Morgan_201
+  - first:
+      213: -1544426934807750267
+    second: Morgan_202
+  - first:
+      213: -4155726145703418713
+    second: Morgan_203
+  - first:
+      213: 7860941148629192852
+    second: Morgan_204
+  - first:
+      213: 957600342072352714
+    second: Morgan_205
+  - first:
+      213: -7742488877253933702
+    second: Morgan_206
+  - first:
+      213: -7540331457851851249
+    second: Morgan_207
+  - first:
+      213: 8856618827815055491
+    second: Morgan_208
+  - first:
+      213: -504548013875688522
+    second: Morgan_209
+  - first:
+      213: 6082618752422757813
+    second: Morgan_210
+  - first:
+      213: 3726833106285125027
+    second: Morgan_211
+  - first:
+      213: -6328862892582442861
+    second: Morgan_212
+  - first:
+      213: -1208278424839043874
+    second: Morgan_213
+  - first:
+      213: -303837660057499592
+    second: Morgan_214
+  - first:
+      213: 4170573501275606913
+    second: Morgan_215
+  - first:
+      213: 8817432333143729978
+    second: Morgan_216
+  - first:
+      213: -1749887730770290507
+    second: Morgan_217
+  - first:
+      213: -6691285097093161628
+    second: Morgan_218
+  - first:
+      213: 4771395000061711596
+    second: Morgan_219
+  - first:
+      213: -8605341472022472839
+    second: Morgan_220
+  - first:
+      213: 3581724486864372204
+    second: Morgan_221
+  - first:
+      213: 5811347478256963694
+    second: Morgan_222
+  - first:
+      213: 2120803081594233177
+    second: Morgan_223
+  - first:
+      213: -3212364962419411578
+    second: Morgan_224
+  - first:
+      213: 8369628782012669251
+    second: Morgan_225
+  - first:
+      213: -8245464187033943848
+    second: Morgan_226
+  - first:
+      213: -4409456838736766177
+    second: Morgan_227
+  - first:
+      213: -1061048761160272924
+    second: Morgan_228
+  - first:
+      213: 6647538168650414700
+    second: Morgan_229
+  - first:
+      213: -5370634562352773497
+    second: Morgan_230
+  - first:
+      213: 6439618424873023671
+    second: Morgan_231
+  - first:
+      213: 2168686495122741873
+    second: Morgan_232
+  - first:
+      213: -5935263075045776297
+    second: Morgan_233
+  - first:
+      213: 4586715276316592978
+    second: Morgan_234
+  - first:
+      213: 4342118640935553173
+    second: Morgan_235
+  - first:
+      213: 5573076618519267654
+    second: Morgan_236
+  - first:
+      213: 308620217187634424
+    second: Morgan_237
+  - first:
+      213: 5890636747461551915
+    second: Morgan_238
+  - first:
+      213: -4235267855405624155
+    second: Morgan_239
+  - first:
+      213: -8627568628049151895
+    second: Morgan_240
+  - first:
+      213: -1508724268472351760
+    second: Morgan_241
+  - first:
+      213: 8498463665091746128
+    second: Morgan_242
+  - first:
+      213: 570000016337414154
+    second: Morgan_243
+  - first:
+      213: 7125082417987402612
+    second: Morgan_244
+  - first:
+      213: 6884829036531187067
+    second: Morgan_245
+  - first:
+      213: -6013693215450209700
+    second: Morgan_246
+  - first:
+      213: 806610682305539424
+    second: Morgan_247
+  - first:
+      213: -849686665992582020
+    second: Morgan_248
+  - first:
+      213: -1801687993423345101
+    second: Morgan_249
+  - first:
+      213: -5113376774501709317
+    second: Morgan_250
+  - first:
+      213: -519263804293370713
+    second: Morgan_251
+  - first:
+      213: 462580194344388392
+    second: Morgan_252
+  - first:
+      213: 6920861355435369721
+    second: Morgan_253
+  - first:
+      213: 4674026615902641207
+    second: Morgan_254
+  - first:
+      213: 1240799867995415625
+    second: Morgan_255
+  - first:
+      213: -743543304105609351
+    second: Morgan_256
+  - first:
+      213: -6715501308834283432
+    second: Morgan_257
+  - first:
+      213: -7090444282850994591
+    second: Morgan_258
+  - first:
+      213: -7432325134458049500
+    second: Morgan_259
+  - first:
+      213: -4219449763634266805
+    second: Morgan_260
+  - first:
+      213: 5049559308210276668
+    second: Morgan_261
+  - first:
+      213: -1259220417295503575
+    second: Morgan_262
+  - first:
+      213: -3995282750153087489
+    second: Morgan_263
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Morgan_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 962
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0e8195aa25251e0800000000000000
+      internalID: -2210613575492771619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 984
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da68d059d27e8920800000000000000
+      internalID: 2994457079937788633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 906
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cb6b8dd1ef87e50800000000000000
+      internalID: 6807470240913865834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 906
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a114deb5b9c69700800000000000000
+      internalID: 546846187199926689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 906
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07261fc72428c7d10800000000000000
+      internalID: 2124716346287678064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 906
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4696007bbd280ab0800000000000000
+      internalID: -5041729499779656116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 906
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c968654a1c2d5f7a0800000000000000
+      internalID: -6343932770953820516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 906
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101310ce402f95eb0800000000000000
+      internalID: -4730483830622703359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 906
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd991de18da014840800000000000000
+      internalID: 5206454567563270620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 906
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4e06ae274828510800000000000000
+      internalID: 1549946850862228704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 832
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c5b5e4ed45f7ce0800000000000000
+      internalID: -1405311244942222302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 840
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0521199d9ccbbe0800000000000000
+      internalID: -1460070242895900486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 836
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0384d34d3d09490800000000000000
+      internalID: -7741454850935213831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 832
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df43303de69e4d760800000000000000
+      internalID: 7481861543165113597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 832
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9de4f3b6e74a4490800000000000000
+      internalID: -7761311951632405092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 837
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27bdacdea8c7e720800000000000000
+      internalID: 2875487540451587882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 845
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd3c16675896f240800000000000000
+      internalID: 4825211551916768765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 845
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e5016a7e028cb80800000000000000
+      internalID: -8374407327799812601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 840
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ac68c4b9278530800000000000000
+      internalID: 3857097462299533498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 833
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6f8f15c1bd2e060800000000000000
+      internalID: 6981383287058527981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_45
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 803
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d41a22e4176fdb0800000000000000
+      internalID: -4758491375867966091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 737
+        width: 20
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e81dc60d64089ba0800000000000000
+      internalID: -6082106430451803936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 808
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dd69ce398fe34c0800000000000000
+      internalID: -4305730879506424510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_48
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 741
+        width: 25
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff8c5e81bfb51220800000000000000
+      internalID: 2456079941119021041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 795
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcd27261adc1ad40800000000000000
+      internalID: 5593978305195990263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 741
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d57949723add6d10800000000000000
+      internalID: 2120590909879449043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_51
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 741
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c870268940a5b17c0800000000000000
+      internalID: -4099584060007774324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 737
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681ad5e64c0c55a50800000000000000
+      internalID: 6509320786331672966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 737
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c340cecb9a1f5a0800000000000000
+      internalID: -6489218959185527802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 775
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266310df62f32cc70800000000000000
+      internalID: 8989817242870953570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_55
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 737
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7278e346d42d55d40800000000000000
+      internalID: 5572591343776991015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 737
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7815437b28269f0800000000000000
+      internalID: -476674887179466841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 771
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8350ecbc2cf0b0a90800000000000000
+      internalID: -7346761037807483592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 737
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bda16fa5b109da0800000000000000
+      internalID: -5940217831011722423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_59
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 737
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b3cb32b9a905890800000000000000
+      internalID: -7471301790697505994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_60
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 733
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3797c6e36d74358a0800000000000000
+      internalID: -6317626866774804109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_61
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 730
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5cfc870535ce880800000000000000
+      internalID: -8580391584958265870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_62
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 679
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c1f998363f331c0800000000000000
+      internalID: -4525005591740998609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 679
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71cca29e0a6ba3e0800000000000000
+      internalID: -2041421395259506306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_64
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 729
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3092e1cb7b83d0890800000000000000
+      internalID: -7490268243461003005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 678
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cfef4f9ea27f3f0800000000000000
+      internalID: -867177218919433199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_66
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 678
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70018794794efd940800000000000000
+      internalID: 5323224622999015431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_67
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 678
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd94510c12ec380800000000000000
+      internalID: -8949178300663997459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 703
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2477a068f73518590800000000000000
+      internalID: -7673760482887829694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_69
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 678
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153e5fadbef3b0590800000000000000
+      internalID: -7706996055091059887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_70
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 678
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341b19e2f51f01420800000000000000
+      internalID: 2598842376098263363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_71
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 679
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df80b00631cd02e80800000000000000
+      internalID: -8205316545295218435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_72
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 716
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f6685da7904ad00800000000000000
+      internalID: 982921041846628141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_73
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 706
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35976ad9abdc890a0800000000000000
+      internalID: -6874518629788518061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_74
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 702
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6a1f372cc3ff6a0800000000000000
+      internalID: -6413340538485758285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_75
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 679
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fd7460551cfd810800000000000000
+      internalID: 1792363747638501138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 694
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3daaf3b9a3562930800000000000000
+      internalID: 4118070897611025727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_77
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 689
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81efbc193efdfbf0800000000000000
+      internalID: -288795279832915574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_78
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 689
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86410cdf16a4af10800000000000000
+      internalID: 2280129967121581707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 620
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad66817366fdb460800000000000000
+      internalID: 7259229081357938093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_80
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 667
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfbd172ad5a0ee30800000000000000
+      internalID: 4530803581512433619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_81
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 660
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7730418709df0f10800000000000000
+      internalID: 2238246166082893691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 620
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985db1d765add6b80800000000000000
+      internalID: -8399817664975088247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 620
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35acde9b5761e74f0800000000000000
+      internalID: -829200586503239085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_86
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 620
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a106892b706ade0800000000000000
+      internalID: -1322360976944653708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 620
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe33918b3e11ff00800000000000000
+      internalID: 1148732620882001653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 620
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9b555a7fb8a3210800000000000000
+      internalID: 1313516137078962649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_89
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 568
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e3696c59f376170800000000000000
+      internalID: 8171569961401466395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_90
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 564
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5499e71ad3c8f010800000000000000
+      internalID: 1222942640302560350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_91
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 608
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f7f5314d296d410800000000000000
+      internalID: 1501548965330386738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_92
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 562
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2f0d35a57418da0800000000000000
+      internalID: -5944391579873512714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_93
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 562
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2334467859faef760800000000000000
+      internalID: 7493619886747566898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_94
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 603
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c940cb5ec687120f0800000000000000
+      internalID: -1143500421269289828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_95
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 564
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef08b97a96bce8a20800000000000000
+      internalID: 3066612050929877246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 600
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d940a983f1734e0800000000000000
+      internalID: -2002097181380272843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_97
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 568
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a89cd042f50c08d0800000000000000
+      internalID: -2878919523768166231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 572
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9632f69bef9849b0800000000000000
+      internalID: -5095647144171129189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_99
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 603
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7c5c603ffd01ac0800000000000000
+      internalID: -3886360243537066064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_100
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 560
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31738fc75a6f24010800000000000000
+      internalID: 1171770043696428819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_101
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 555
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82a0a99d5b97c870800000000000000
+      internalID: 8703095631228478093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_102
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 590
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e72d61473a96fed0800000000000000
+      internalID: -2380545790907176986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_103
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 582
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcd207e23f67af40800000000000000
+      internalID: 5739678514521758931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_104
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 563
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1724d0af1ebaaac10800000000000000
+      internalID: 2065652366153958001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_105
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 568
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9543a829953d33790800000000000000
+      internalID: -7551459768506108839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 487
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97510c89449525e20800000000000000
+      internalID: 3337828424990332281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_107
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 487
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a873c996ee3ff30800000000000000
+      internalID: 4608288981090011756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_108
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 539
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74473736e89ce8a00800000000000000
+      internalID: 760767000463242311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_109
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 529
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee6aad43395e6130800000000000000
+      internalID: 3561882432177860324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 487
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0dae0c6d90a7f90800000000000000
+      internalID: -6955235856556044107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_111
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 488
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67fe620b2a272c90800000000000000
+      internalID: -7194735515488290961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 495
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d3354f5dee94eb0800000000000000
+      internalID: -4734990930508825344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_113
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 489
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c6dd125d1bc7e50800000000000000
+      internalID: 6808512265631657002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_114
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 489
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2950fe3273a685260800000000000000
+      internalID: 7086530798726088082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_115
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 487
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a8ca01f7f7ef9f0800000000000000
+      internalID: -432768330463671727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_116
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 487
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b54181af758c4a0800000000000000
+      internalID: -6572906924489811098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_117
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 499
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d96e7b3c6b2990800000000000000
+      internalID: -7409709759128284189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_118
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 487
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83327aa329d74950800000000000000
+      internalID: 6433349339928736654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_119
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 478
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78d804eefab17120800000000000000
+      internalID: 2409912879530170493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_120
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 428
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174d00c62ce663890800000000000000
+      internalID: -7478668349887425423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_121
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 428
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2446d6599b9db4f60800000000000000
+      internalID: 8019742952562451522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_122
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 429
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cea8087e36d3490800000000000000
+      internalID: -7764940336571683768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_123
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 429
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931ec08efe183c350800000000000000
+      internalID: 6035810792996921657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_124
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 469
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73dccb5674192390800000000000000
+      internalID: -7842714777510161542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_125
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 433
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef85e3cd1b103cde0800000000000000
+      internalID: -1314204802846140162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_126
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 429
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98a21d7267de1180800000000000000
+      internalID: -9142633375510386529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_127
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 432
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22db47ca8f771b190800000000000000
+      internalID: -7948439957403288286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_128
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 429
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f41a5de07f234ee0800000000000000
+      internalID: -1278125707178142472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_129
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 460
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d9cf27fbfec84c0800000000000000
+      internalID: -4283785539989234285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_130
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 460
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2dae5c119d22d30800000000000000
+      internalID: 4405322055879938815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_131
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 429
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0b5e6cf5061a5d0800000000000000
+      internalID: -3053053107905384246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_132
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 429
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be11875b2d52d15f0800000000000000
+      internalID: -784429173174693397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_133
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 443
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd1cc9898420690800000000000000
+      internalID: -7637462197764760457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_134
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 414
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c1fa1f6f01fb50800000000000000
+      internalID: 6625093496706548174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_135
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 346
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a406b105994582770800000000000000
+      internalID: 8586205707032551498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_136
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 401
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56471747c04ca8180800000000000000
+      internalID: -9112255338258533275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_137
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 346
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcbfa34d98ff0510800000000000000
+      internalID: 1517704953776290997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_138
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 386
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75fa34c53b1a1350800000000000000
+      internalID: 5988128572281910653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_139
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 346
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2cbad6b8246a140800000000000000
+      internalID: 4730541625207145157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_140
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 346
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34075c24f854f22f0800000000000000
+      internalID: -995500511022714813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_141
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 346
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac1b1f16b42b7e0800000000000000
+      internalID: -1751254421054829991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_142
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 346
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60667694aef9b4a10800000000000000
+      internalID: 1894783896842102278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_143
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 346
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a16b9844021cdc0800000000000000
+      internalID: -3620577146688890239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 346
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72d996766b301170800000000000000
+      internalID: 8147077037175722623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_145
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 346
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc97ddb77f5466750800000000000000
+      internalID: 6297798058161568207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_146
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 346
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd14e893f4071f70800000000000000
+      internalID: 9157793811569843668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_147
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 346
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e59daa332fc1d0800000000000000
+      internalID: -3328402864676149622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_148
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 333
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69a1142487283f80800000000000000
+      internalID: -8126702079095756437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_149
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 331
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587fd43c870ab5240800000000000000
+      internalID: 4781591869917099909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_150
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 335
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1e4cc403932e350800000000000000
+      internalID: 6044456529493811669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_151
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 331
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9505d5f80d81270800000000000000
+      internalID: 8221550433929288152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_152
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 296
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23abe6d2bd7519ee0800000000000000
+      internalID: -1256126222187972046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_153
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 298
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519dd561642948e00800000000000000
+      internalID: 1046121843177412885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_154
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 298
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998db1da68e224760800000000000000
+      internalID: 7440560690334259353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_155
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 298
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e2e876801b75ec0800000000000000
+      internalID: -3578196729267343842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 325
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a23292f45bde39b0800000000000000
+      internalID: -5098396570243419483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_157
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 298
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192e608ebc5caad10800000000000000
+      internalID: 2137738452702519953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_158
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 298
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82265590ce5a28210800000000000000
+      internalID: 1333810872842543656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_159
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 298
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5ff5b96af138dd0800000000000000
+      internalID: -2485107768946592289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_160
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 231
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4cfdd4b19426450800000000000000
+      internalID: 6080502828523046097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_161
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 283
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2277caba67007fb20800000000000000
+      internalID: 3168001372564780834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_162
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 278
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d13f5e5eac555150800000000000000
+      internalID: 5860692394069930451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_163
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 231
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ac550bd41d7d70800000000000000
+      internalID: 9042406557750174228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_164
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 233
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e5ee3576276cbe0800000000000000
+      internalID: -1457351641292448168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_165
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 236
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83597e7669cf1f270800000000000000
+      internalID: 8282678912629577016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_166
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 233
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e49b76f2442b6f0800000000000000
+      internalID: -670398424130433525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_167
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 231
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af12e8b5fb64a8e80800000000000000
+      internalID: -8175644385848974854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_168
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 231
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19022bc93faa29190800000000000000
+      internalID: -7957109628327550831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_169
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 231
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ca0dea2b939b020800000000000000
+      internalID: 2357979319505038360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_170
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 260
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449afcd1584b705d0800000000000000
+      internalID: -3096307734970128060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_171
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 231
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee454454493399640800000000000000
+      internalID: 5087153966001968366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_172
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 168
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2454e4628f49670800000000000000
+      internalID: 8544727236434281139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_173
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 215
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5679ba501f5fdf0800000000000000
+      internalID: -146946406163716670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_174
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 169
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f337cd482bb0ecd30800000000000000
+      internalID: 4453509942877123391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_175
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 169
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7c602643199f20800000000000000
+      internalID: 3429793783131962922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_176
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 169
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e5bbecb35c703b0800000000000000
+      internalID: -5546247555421348304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_177
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 169
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da32153bfc209b10800000000000000
+      internalID: 1986136893109189330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_178
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 169
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d7154d64bbe1270800000000000000
+      internalID: 8223215882509319436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_179
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 169
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4418b15f485c02db0800000000000000
+      internalID: -4818634426447855292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_180
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 205
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d69036feee0149a0800000000000000
+      internalID: -6250698388318153002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_181
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 188
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c9748da8ef89440800000000000000
+      internalID: 4942980463326632979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_182
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 169
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9840237e49f72f010800000000000000
+      internalID: 1221178726481527945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_183
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 151
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56183de89ce373a90800000000000000
+      internalID: -7334324432743988891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_185
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 107
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d0f9504533d4080800000000000000
+      internalID: -9201642027683476077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_186
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 107
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3558982075578f820800000000000000
+      internalID: 2952238572306531667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_187
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db9070384218f600800000000000000
+      internalID: 502171459711441881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_188
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4513f8b2f362d80800000000000000
+      internalID: -8275857808928189219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_189
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 107
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1673b07235a77a0800000000000000
+      internalID: -6378694495059877457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 107
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53409e0cf03e510e0800000000000000
+      internalID: -2299682377902259147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_193
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd161f86a16fdd00800000000000000
+      internalID: 999625010292596171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_194
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 107
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d64a8c9c8a805b0800000000000000
+      internalID: -5401882168422798007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_195
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 110
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803a07d7e5a1bde60800000000000000
+      internalID: 7988007357205488392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 107
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70006752f208d5970800000000000000
+      internalID: 8745286991403679751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 107
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d8e07e2aa6b850800000000000000
+      internalID: 6392483837538523038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_198
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 93
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c2251feea65a2a0800000000000000
+      internalID: -6726852893924512728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_199
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 97
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f46c0ca18ef27d0800000000000000
+      internalID: -2940876830048628871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_201
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 76
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a916e83dcef43a60800000000000000
+      internalID: 7653021824185670057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_205
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 54
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfd30200741a4d00800000000000000
+      internalID: 957600342072352714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_211
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad5a4de6fe58b330800000000000000
+      internalID: 3726833106285125027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_212
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398e87f1bbc5b28a0800000000000000
+      internalID: -6328862892582442861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_213
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed443b1ac255b3fe0800000000000000
+      internalID: -1208278424839043874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_214
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83803ea024d88cbf0800000000000000
+      internalID: -303837660057499592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_215
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f8035b08ad0e930800000000000000
+      internalID: 4170573501275606913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_216
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3763108dffcd5a70800000000000000
+      internalID: 8817432333143729978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_217
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b85f92516627b7e0800000000000000
+      internalID: -1749887730770290507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_218
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d95e8f7a7c323a0800000000000000
+      internalID: -6691285097093161628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d0cdf876673240800000000000000
+      internalID: 4771395000061711596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_220
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d925368fa39880800000000000000
+      internalID: -8605341472022472839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_221
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18edaa177d4b130800000000000000
+      internalID: 3581724486864372204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_222
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 6
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e605edbddbd06a050800000000000000
+      internalID: 5811347478256963694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 18
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9516afc8a2b9e6d10800000000000000
+      internalID: 2120803081594233177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_224
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685741626136b63d0800000000000000
+      internalID: -3212364962419411578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_225
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d10c57805e62470800000000000000
+      internalID: 8369628782012669251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_226
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d003ab120a329d80800000000000000
+      internalID: -8245464187033943848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_227
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b9da21e567ec2c0800000000000000
+      internalID: -4409456838736766177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_228
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 6
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e37cadf5c56641f0800000000000000
+      internalID: -1061048761160272924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_229
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a32458ebcc04c50800000000000000
+      internalID: 6647538168650414700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 16
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7860784025ca775b0800000000000000
+      internalID: -5370634562352773497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_231
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8fd9fb6de1e5950800000000000000
+      internalID: 6439618424873023671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_232
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a5afa80e8b81e10800000000000000
+      internalID: 2168686495122741873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_233
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754676bfda5b1ada0800000000000000
+      internalID: -5935263075045776297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_234
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b45ba0e3947af30800000000000000
+      internalID: 4586715276316592978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_235
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598c09df5ed424c30800000000000000
+      internalID: 4342118640935553173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_236
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64940e838ab875d40800000000000000
+      internalID: 5573076618519267654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc09ffc370784400800000000000000
+      internalID: 308620217187634424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_238
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27ee4179eebfb150800000000000000
+      internalID: 5890636747461551915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_239
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4daed235e4935c0800000000000000
+      internalID: -4235267855405624155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_240
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 6
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96873d92b08b44880800000000000000
+      internalID: -8627568628049151895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_241
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3c1b9754fef0be0800000000000000
+      internalID: -1508724268472351760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_242
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0599b563dab90f570800000000000000
+      internalID: 8498463665091746128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_243
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0822cfaefb09e700800000000000000
+      internalID: 570000016337414154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_244
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b358775b061e260800000000000000
+      internalID: 7125082417987402612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_245
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d7cb50883db8f50800000000000000
+      internalID: 6884829036531187067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_246
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 7
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52e9e8e1e11b8ca0800000000000000
+      internalID: -6013693215450209700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 18
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d6bd65428a13b00800000000000000
+      internalID: 806610682305539424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_248
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 6
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c4027aa7e4534f0800000000000000
+      internalID: -849686665992582020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_249
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a4ae3d05e1ff6e0800000000000000
+      internalID: -1801687993423345101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_250
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9c7195ae2a909b0800000000000000
+      internalID: -5113376774501709317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_251
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 6
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac206832543bc8f0800000000000000
+      internalID: -519263804293370713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_252
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 6
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82747046c3a6b6600800000000000000
+      internalID: 462580194344388392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_253
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f424760cb6db0060800000000000000
+      internalID: 6920861355435369721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_254
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c199f617a7dd040800000000000000
+      internalID: 4674026615902641207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_255
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944e739e7e4383110800000000000000
+      internalID: 1240799867995415625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_256
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9773aabed476ea5f0800000000000000
+      internalID: -743543304105609351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_257
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850034ec32fbdc2a0800000000000000
+      internalID: -6715501308834283432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_258
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 6
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16697f4dd7ea99d90800000000000000
+      internalID: -7090444282850994591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_259
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cab691ba31bd890800000000000000
+      internalID: -7432325134458049500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_260
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d39faabc08175c0800000000000000
+      internalID: -4219449763634266805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_261
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 6
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c390426ef63a31640800000000000000
+      internalID: 5049559308210276668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_262
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fae2db3b9568ee0800000000000000
+      internalID: -1259220417295503575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_263
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 5
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff521e3b187ed88c0800000000000000
+      internalID: -3995282750153087489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 962
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1754db4a2b10d42bdc31b144b87d5f
+      internalID: 1580808981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 962
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336499244ba969a4e95eadcd0f6aa467
+      internalID: 1185772277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 962
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6ca026ec5849f4990ce14c47f828c5
+      internalID: -328227058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 962
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbd17786155ff24489c23684f6191fb
+      internalID: 761913031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 962
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927b247a5438db4e9a8cb8e274b6248
+      internalID: 1171007451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 962
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ae2ee907b776d45b40f4e94990f6ba
+      internalID: 1175982411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 962
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad6bca8e148c34e85daac7e9e4399f
+      internalID: 1423617880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 962
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c949dfa3e0ce3b4dbad6943e5096be2
+      internalID: -1015631450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 993
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6a928b125ce9e408ac6a9249af53a7
+      internalID: -7967047765862588305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 962
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f79245b0aa94664b8dc4ab597ca89a5
+      internalID: 722881459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 997
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24228ba7922e8b24893c5ca80f3c9de9
+      internalID: 5631223729420816955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 962
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3f7093d947a894891abbe720daabac
+      internalID: -1909425118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 962
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99895de348c70e6408f14ee58fc0b353
+      internalID: 959513768232844433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 996
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6990e8be00ed908439f67f4e1e95ac0e
+      internalID: 5281311848372116859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morgan_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 962
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce92060f96f9e0f4d977d13eef13a3be
+      internalID: -409013702988240109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: df7844d6d86c139479e31deac0ed4a43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack1: -8399817664975088247
+      Attack2: -829200586503239085
+      Attack3: 1313516137078962649
+      Dash1: -7761311951632405092
+      Dash2: 2875487540451587882
+      Dash3: 4825211551916768765
+      Dash4: 6981383287058527981
+      Dash5: -8374407327799812601
+      Dash6: 3857097462299533498
+      Death1: 4771395000061711596
+      Death2: 2120803081594233177
+      Death3: -5370634562352773497
+      Death4: 308620217187634424
+      Death5: 806610682305539424
+      Hit1: 8745286991403679751
+      Hit2: 6392483837538523038
+      Hit3: -2299682377902259147
+      Idle: 1185772277
+      Jump1: -1405311244942222302
+      Jump2: -1460070242895900486
+      Jump3: -7741454850935213831
+      Jump4: 7481861543165113597
+      Morgan: 1580808981
+      Morgan_0: 1023734703
+      Morgan_10: 722881459
+      Morgan_100: 1171770043696428819
+      Morgan_101: 8703095631228478093
+      Morgan_102: -2380545790907176986
+      Morgan_103: 5739678514521758931
+      Morgan_104: 2065652366153958001
+      Morgan_105: -7551459768506108839
+      Morgan_106: 3337828424990332281
+      Morgan_107: 4608288981090011756
+      Morgan_108: 760767000463242311
+      Morgan_109: 3561882432177860324
+      Morgan_11: 5631223729420816955
+      Morgan_110: -6955235856556044107
+      Morgan_111: -7194735515488290961
+      Morgan_112: -4734990930508825344
+      Morgan_113: 6808512265631657002
+      Morgan_114: 7086530798726088082
+      Morgan_115: -432768330463671727
+      Morgan_116: -6572906924489811098
+      Morgan_117: -7409709759128284189
+      Morgan_118: 6433349339928736654
+      Morgan_119: 2409912879530170493
+      Morgan_12: -1909425118
+      Morgan_120: -7478668349887425423
+      Morgan_121: 8019742952562451522
+      Morgan_122: -7764940336571683768
+      Morgan_123: 6035810792996921657
+      Morgan_124: -7842714777510161542
+      Morgan_125: -1314204802846140162
+      Morgan_126: -9142633375510386529
+      Morgan_127: -7948439957403288286
+      Morgan_128: -1278125707178142472
+      Morgan_129: -4283785539989234285
+      Morgan_13: 959513768232844433
+      Morgan_130: 4405322055879938815
+      Morgan_131: -3053053107905384246
+      Morgan_132: -784429173174693397
+      Morgan_133: -7637462197764760457
+      Morgan_134: 6625093496706548174
+      Morgan_135: 8586205707032551498
+      Morgan_136: -9112255338258533275
+      Morgan_137: 1517704953776290997
+      Morgan_138: 5988128572281910653
+      Morgan_139: 4730541625207145157
+      Morgan_14: 5281311848372116859
+      Morgan_140: -995500511022714813
+      Morgan_141: -1751254421054829991
+      Morgan_142: 1894783896842102278
+      Morgan_143: -3620577146688890239
+      Morgan_144: 8147077037175722623
+      Morgan_145: 6297798058161568207
+      Morgan_146: 9157793811569843668
+      Morgan_147: -3328402864676149622
+      Morgan_148: -8126702079095756437
+      Morgan_149: 4781591869917099909
+      Morgan_15: -409013702988240109
+      Morgan_150: 6044456529493811669
+      Morgan_151: 8221550433929288152
+      Morgan_152: -1256126222187972046
+      Morgan_153: 1046121843177412885
+      Morgan_154: 7440560690334259353
+      Morgan_155: -3578196729267343842
+      Morgan_156: -5098396570243419483
+      Morgan_157: 2137738452702519953
+      Morgan_158: 1333810872842543656
+      Morgan_159: -2485107768946592289
+      Morgan_16: 2994457079937788633
+      Morgan_160: 6080502828523046097
+      Morgan_161: 3168001372564780834
+      Morgan_162: 5860692394069930451
+      Morgan_163: 9042406557750174228
+      Morgan_164: -1457351641292448168
+      Morgan_165: 8282678912629577016
+      Morgan_166: -670398424130433525
+      Morgan_167: -8175644385848974854
+      Morgan_168: -7957109628327550831
+      Morgan_169: 2357979319505038360
+      Morgan_170: -3096307734970128060
+      Morgan_171: 5087153966001968366
+      Morgan_172: 8544727236434281139
+      Morgan_173: -146946406163716670
+      Morgan_174: 4453509942877123391
+      Morgan_175: 3429793783131962922
+      Morgan_176: -5546247555421348304
+      Morgan_177: 1986136893109189330
+      Morgan_178: 8223215882509319436
+      Morgan_179: -4818634426447855292
+      Morgan_180: -6250698388318153002
+      Morgan_181: 4942980463326632979
+      Morgan_182: 1221178726481527945
+      Morgan_183: -7334324432743988891
+      Morgan_184: 3570921955423607402
+      Morgan_185: -9201642027683476077
+      Morgan_186: 2952238572306531667
+      Morgan_187: 502171459711441881
+      Morgan_188: -8275857808928189219
+      Morgan_189: -6378694495059877457
+      Morgan_190: 9060496777451483794
+      Morgan_191: 348785302000575968
+      Morgan_193: 999625010292596171
+      Morgan_194: -5401882168422798007
+      Morgan_195: 7988007357205488392
+      Morgan_198: -6726852893924512728
+      Morgan_199: -2940876830048628871
+      Morgan_2: -2210613575492771619
+      Morgan_200: 511781820972505002
+      Morgan_201: 7653021824185670057
+      Morgan_202: -1544426934807750267
+      Morgan_203: -4155726145703418713
+      Morgan_204: 7860941148629192852
+      Morgan_205: 957600342072352714
+      Morgan_206: -7742488877253933702
+      Morgan_207: -7540331457851851249
+      Morgan_208: 8856618827815055491
+      Morgan_209: -504548013875688522
+      Morgan_210: 6082618752422757813
+      Morgan_211: 3726833106285125027
+      Morgan_212: -6328862892582442861
+      Morgan_213: -1208278424839043874
+      Morgan_214: -303837660057499592
+      Morgan_215: 4170573501275606913
+      Morgan_216: 8817432333143729978
+      Morgan_217: -1749887730770290507
+      Morgan_218: -6691285097093161628
+      Morgan_220: -8605341472022472839
+      Morgan_221: 3581724486864372204
+      Morgan_222: 5811347478256963694
+      Morgan_224: -3212364962419411578
+      Morgan_225: 8369628782012669251
+      Morgan_226: -8245464187033943848
+      Morgan_227: -4409456838736766177
+      Morgan_228: -1061048761160272924
+      Morgan_229: 6647538168650414700
+      Morgan_231: 6439618424873023671
+      Morgan_232: 2168686495122741873
+      Morgan_233: -5935263075045776297
+      Morgan_234: 4586715276316592978
+      Morgan_235: 4342118640935553173
+      Morgan_236: 5573076618519267654
+      Morgan_238: 5890636747461551915
+      Morgan_239: -4235267855405624155
+      Morgan_240: -8627568628049151895
+      Morgan_241: -1508724268472351760
+      Morgan_242: 8498463665091746128
+      Morgan_243: 570000016337414154
+      Morgan_244: 7125082417987402612
+      Morgan_245: 6884829036531187067
+      Morgan_246: -6013693215450209700
+      Morgan_248: -849686665992582020
+      Morgan_249: -1801687993423345101
+      Morgan_25: -4716654640311930634
+      Morgan_250: -5113376774501709317
+      Morgan_251: -519263804293370713
+      Morgan_252: 462580194344388392
+      Morgan_253: 6920861355435369721
+      Morgan_254: 4674026615902641207
+      Morgan_255: 1240799867995415625
+      Morgan_256: -743543304105609351
+      Morgan_257: -6715501308834283432
+      Morgan_258: -7090444282850994591
+      Morgan_259: -7432325134458049500
+      Morgan_26: 1792782124972847388
+      Morgan_260: -4219449763634266805
+      Morgan_261: 5049559308210276668
+      Morgan_262: -1259220417295503575
+      Morgan_263: -3995282750153087489
+      Morgan_27: -3470049977094637940
+      Morgan_28: -4420665667447122697
+      Morgan_29: -7788704611696751222
+      Morgan_3: -328227058
+      Morgan_30: 4752387866424918631
+      Morgan_31: -3507001787972626237
+      Morgan_32: 7500680066679668328
+      Morgan_38: 3921277092006351210
+      Morgan_4: 761913031
+      Morgan_41: 3859750778909239983
+      Morgan_45: -4758491375867966091
+      Morgan_46: -6082106430451803936
+      Morgan_47: -4305730879506424510
+      Morgan_48: 2456079941119021041
+      Morgan_49: 5593978305195990263
+      Morgan_5: 1171007451
+      Morgan_50: 2120590909879449043
+      Morgan_51: -4099584060007774324
+      Morgan_52: 6509320786331672966
+      Morgan_53: -6489218959185527802
+      Morgan_54: 8989817242870953570
+      Morgan_55: 5572591343776991015
+      Morgan_56: -476674887179466841
+      Morgan_57: -7346761037807483592
+      Morgan_58: -5940217831011722423
+      Morgan_59: -7471301790697505994
+      Morgan_6: 1175982411
+      Morgan_60: -6317626866774804109
+      Morgan_61: -8580391584958265870
+      Morgan_62: -4525005591740998609
+      Morgan_63: -2041421395259506306
+      Morgan_64: -7490268243461003005
+      Morgan_65: -867177218919433199
+      Morgan_66: 5323224622999015431
+      Morgan_67: -8949178300663997459
+      Morgan_68: -7673760482887829694
+      Morgan_69: -7706996055091059887
+      Morgan_7: 1423617880
+      Morgan_70: 2598842376098263363
+      Morgan_71: -8205316545295218435
+      Morgan_72: 982921041846628141
+      Morgan_73: -6874518629788518061
+      Morgan_74: -6413340538485758285
+      Morgan_75: 1792363747638501138
+      Morgan_76: 4118070897611025727
+      Morgan_77: -288795279832915574
+      Morgan_78: 2280129967121581707
+      Morgan_79: 7259229081357938093
+      Morgan_8: -1015631450
+      Morgan_80: 4530803581512433619
+      Morgan_81: 2238246166082893691
+      Morgan_83: -84952630034153266
+      Morgan_84: 1307859058119844073
+      Morgan_86: -1322360976944653708
+      Morgan_87: 1148732620882001653
+      Morgan_89: 8171569961401466395
+      Morgan_9: -7967047765862588305
+      Morgan_90: 1222942640302560350
+      Morgan_91: 1501548965330386738
+      Morgan_92: -5944391579873512714
+      Morgan_93: 7493619886747566898
+      Morgan_94: -1143500421269289828
+      Morgan_95: 3066612050929877246
+      Morgan_96: -2002097181380272843
+      Morgan_97: -2878919523768166231
+      Morgan_98: -5095647144171129189
+      Morgan_99: -3886360243537066064
+      Run1: 6807470240913865834
+      Run2: 546846187199926689
+      Run3: 2124716346287678064
+      Run4: -5041729499779656116
+      Run5: -6343932770953820516
+      Run6: -4730483830622703359
+      Run7: 5206454567563270620
+      Run8: 1549946850862228704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
