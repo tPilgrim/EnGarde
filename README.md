@@ -3,7 +3,7 @@
 ## 📖 Overview
 **En Garde!** is a fast-paced 2D fighting game set in a medieval world, where two swordsmen engage in intense fencing duels.
 
-Each match lasts **60 seconds**, and every successful hit scores a point. There are no health bars—only precision, timing, and skill determine the winner.
+Each match lasts **60 seconds**, and every successful hit scores a point. There are no health bars, only precision, timing, and skill determine the winner.
 
 <p float="left">
 <img src="Screenshots/En Garde! 1.png" width="350"/>
